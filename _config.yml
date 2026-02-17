@@ -1,5 +1,5 @@
 # Site settings
-title: Rock n' Byte # site title
+title: beberuhi # site title
 description: >- # site description
   writing in London about tech, science, art, and existence
 lang: en-GB # default lang
@@ -9,18 +9,18 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: rock n' byte # author name
+  name: beberuhi # author name
   bio: >- # tell to the world
     journal for my journey as part of computer science, science, art, and existence
   username: rocknbyte # general username
-  github: rocknbyte # github username
-  twitter: rocknbyte # twitter username
+  github: eberuhi # github username
+  twitter: eberuhi # twitter username
   facebook: facebook_username # facebook username
-  email: axl.turing@gmail.com # email adress
+  email: eberuhi@gmail.com # email adress
   avatar: /assets/img/X18e9ctE_400x400.jpeg # change with your own avatar
 
 # URL settings
-url: "https://rocknbyte.github.io/" #
+url: "https://eberuhi.github.io/" #
 baseurl:
 permalink: /:title/
 google_analytics: G-GL3X6NRCJ4
