@@ -1,5 +1,5 @@
 # Site settings
-title: beberuhi # site title
+title: eberuhi # site title
 description: >- # site description
   writing in London about tech, science, art, and existence
 lang: en-GB # default lang
@@ -9,10 +9,10 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: beberuhi # author name
+  name: eberuhi # author name
   bio: >- # tell to the world
     journal for my journey as part of computer science, science, art, and existence
-  username: rocknbyte # general username
+  username: eberuhi # general username
   github: eberuhi # github username
   twitter: eberuhi # twitter username
   facebook: facebook_username # facebook username
