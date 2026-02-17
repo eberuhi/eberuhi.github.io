@@ -11,7 +11,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: eberuhi # author name
   bio: >- # tell to the world
-    journal for my journey as part of computer science, science, art, and existence
+    journal for my journey
   username: eberuhi # general username
   github: eberuhi # github username
   twitter: eberuhi # twitter username
