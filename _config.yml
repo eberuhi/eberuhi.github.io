@@ -4,7 +4,7 @@ description: >- # site description
   tech, science, art, and existence
 lang: en-GB # default lang
 timezone: Europe/London # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: /assets/img/X18e9ctE_400x400.jpeg # Custom OG image for link previews
 mode: light # default theme "dark" | "light"
 
 # Profile settings
